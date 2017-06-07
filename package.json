@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "wordpress installation with basic setup (plugins, empty theme and database creation)",
   "main": "index.js",
+  "engines": {
+    "node": ">=3.0.0"
+  },
   "scripts": {
     "test": "mocha --reporter spec"
   },
