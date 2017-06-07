@@ -1,0 +1,28 @@
+{
+  "name": "wp-start",
+  "version": "0.0.1",
+  "description": "wordpress installation with basic setup (plugins, empty theme and database creation)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/espinoza8917/wp-start.git"
+  },
+  "keywords": [
+    "wordpress",
+    "titan",
+    "theme"
+  ],
+  "author": "Milton Espinoza <espinoza8917@gmail.com> (http://104.131.22.8)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/espinoza8917/wp-start/issues"
+  },
+  "homepage": "https://github.com/espinoza8917/wp-start#readme",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
