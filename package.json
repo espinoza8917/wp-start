@@ -1,6 +1,6 @@
 {
   "name": "wp-start",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "wordpress installation with basic setup (plugins, empty theme and database creation)",
   "main": "index.js",
   "engines": {
